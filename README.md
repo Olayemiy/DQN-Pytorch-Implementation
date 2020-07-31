@@ -5,4 +5,8 @@ This repository contains a Pytorch implementation of the paper: [Human Level Con
 * Pytorch 0.40
 * Python 3.7
 * [Open AI Gym](https://gym.openai.com/docs/)
+
+## Results
+### Cartpole-v1
+![Cartpole-v1 DQN Training Log](https://github.com/Olayemiy/DQN-Pytorch-Implementation/blob/master/training_results.PNG)
  
