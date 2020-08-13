@@ -9,7 +9,9 @@ This repository contains a Pytorch implementation of the paper: [Human Level Con
 ## Results
 ### Cartpole-v1 DQN Training Log
 * Mean Reward = Average reward over 100 episodes
-* Model solved the Cartpole-v1 environment in 3421 episodes
+* Model solved the Cartpole-v1 environment in 631 episodes
 ![Cartpole-v1 DQN Training Log](https://github.com/Olayemiy/DQN-Pytorch-Implementation/blob/master/training_avg_reward.PNG)
+* Loss Per Step
+![Loss](https://github.com/Olayemiy/DQN-Pytorch-Implementation/blob/master/training_loss_per_step.PNG)
 
  
